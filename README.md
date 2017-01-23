@@ -10,7 +10,7 @@ See: [Developing custom filters](https://docs.funnelback.com/develop/programming
 
 ## Included crawl filters
 
-
+* **CA extra filters:** Additional content filters for use with the content auditor.
 
 # Jsoup filters
 
